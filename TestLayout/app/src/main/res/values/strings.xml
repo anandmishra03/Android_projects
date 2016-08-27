@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Patient Medico</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="yourHistory">YOUR HISTORY</string>
+    <string name="actionItem">ACTION ITEM</string>
+</resources>
